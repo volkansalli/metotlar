@@ -1,1 +1,2 @@
 # metotlar
+- odevi yapıldı
